@@ -1,1 +1,0 @@
-<h1>Gradient</h1>
