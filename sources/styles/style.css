@@ -1,5 +1,5 @@
 :root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: "Neue Montreal", Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
 
@@ -93,4 +93,9 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+}
+
+
+pre {
+  font-family: "Geist Mono", "Fira Code", "JetBrains Mono", "Source Code Pro", monospace;
 }
